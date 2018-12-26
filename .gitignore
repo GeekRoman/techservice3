@@ -106,4 +106,3 @@ venv.bak/
 *.bak
 
 #Database
-*.sqlite3
